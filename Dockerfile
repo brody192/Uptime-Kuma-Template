@@ -1,0 +1,1 @@
+FROM louislam/uptime-kuma:1.21.3-alpine
